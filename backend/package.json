@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeeshan-nasir/boat-lifestyle.git"
+    "url": "git+https://github.com/Somashekar9999/Boat-Clone.git"
   },
   "keywords": [
     "backend"
   ],
-  "author": "Muhammed Nasif, Sunil",
+  "author": "Somashekar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zeeshan-nasir/boat-lifestyle/issues"
+    "url": "https://github.com/Somashekar9999/Boat-Clone/issues"
   },
-  "homepage": "https://github.com/zeeshan-nasir/boat-lifestyle#readme",
+  "homepage": "https://github.com/Somashekar9999/Boat-Clone#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
