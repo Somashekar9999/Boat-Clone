@@ -1,0 +1,22 @@
+html {
+  font-size: .9em;
+}
+
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.App {
+  width: 100%;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}
